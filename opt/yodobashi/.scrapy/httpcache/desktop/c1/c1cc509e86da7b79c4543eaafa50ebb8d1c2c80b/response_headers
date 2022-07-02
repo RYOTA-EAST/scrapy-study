@@ -1,0 +1,6 @@
+Location: https://www.yodobashi.com/robots.txt
+Server: BigIP
+Date: Mon, 20 Jun 2022 15:10:00 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=4
+Server-Timing: origin; dur=9

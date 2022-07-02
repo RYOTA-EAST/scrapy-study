@@ -1,0 +1,8 @@
+Location: https://www.yodobashi.com/category/19531/11970/34646/
+Server: BigIP
+Date: Mon, 20 Jun 2022 15:10:09 GMT
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=2
+Server-Timing: origin; dur=8
+Set-Cookie: _abck=728CD24FB5C61DF479B2208BAB8CB938~-1~YAAQ1Q7TF6k7KUWBAQAAZ/mpgQjWwCkeAS2qB6I0WkihNq7sne1VdxkLcD2oDgIYGld5JdNMPNqH+No4PVXk5C4CQ7cuumkhG+gVWa1OgS/rQXoSI0wyAGC09iuzzM9Qgoy7bvmZQXTzOLOADi5vCWZTqhKk2Q3zAwpU5mrms03wkaAeifzhG6Lb45aGd5dDFOdTaB2Z2yzHh5vfc+y5EfQ1osL9jCBjNUxXAW64QZ0zaFIlQYRnEx19NSd0R6oQWDZCY3a39iyYKuDXTEJZDWw2GcBQlQWDbQ4PnIw/EF7TIxlowD48oX9k9V3PcJgLtitjwrhFEL1oNjTnSa68C/QyCiOy4Co=~-1~-1~-1; Domain=.yodobashi.com; Path=/; Expires=Tue, 20 Jun 2023 15:10:09 GMT; Max-Age=31536000
+Set-Cookie: bm_sz=43693F9298190AA325A4A296B355AA1D~YAAQ1Q7TF6o7KUWBAQAAZ/mpgRBGotqt2LrpyObc1l2EmydV2cWwAlnS8k/9SFJayZhly+U6saDJCs3DW40kFCpdSWqIIMbpiHgh1roMiLnY8StoIJRKaV90ectrXiwZIRo32gGObdOYFBAbuWaWwtolc9YdRvBHAIJKMSiU5yPS9fXfBcLYmi7NFuqbp5oR0OMfuoFaI3lFxSisviFHBg70TIrnpPa5ktlNr4TThYMOlp8Ft9AgraovakwWEARY1f4VetUm8vWxOGN0sGjdfHB67wbP8ScrrZCWK/gcp/lIS8zz2dY=~3622211~3289153; Domain=.yodobashi.com; Path=/; Expires=Mon, 20 Jun 2022 19:10:09 GMT; Max-Age=14400
