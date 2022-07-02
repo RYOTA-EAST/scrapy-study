@@ -21,6 +21,9 @@ test-output.*
 /tests/keys/localhost.crt
 /tests/keys/localhost.key
 path.txt
+opt/yodobashi/.scrapy/httpcache
+opt/yodobashi/yodobashi_2022-07-02T02-22-36.csv
+opt/yodobashi/desktop.csv
 
 # Windows
 Thumbs.db
